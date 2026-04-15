@@ -10,4 +10,4 @@
  ```
 - jdbc:mysql://localhost:[port, this usually 3306, you can see it on]/[database_name]
 
-![localhost](https://github-production-user-asset-6210df.s3.amazonaws.com/109123846/578355264-ed90d1ee-49d3-4b11-afdd-9aecb909bc00.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260415%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260415T031303Z&X-Amz-Expires=300&X-Amz-Signature=2c2083e48ed3cbb9700d23fce37949becd265426203eb7c3fcdf1a6dfc490fac&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
+<img width="1916" height="1033" alt="image" src="https://github.com/user-attachments/assets/fbf6327f-ed8a-45ee-a176-1e3b3cce278d" />
